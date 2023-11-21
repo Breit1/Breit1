@@ -8,8 +8,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" whidth="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" whidth="40" height="40" />&nbsp;
 </div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?breit1=vn7n24fzkq&theme=github_dark)
-          
+### ### My state
+<div id="stat" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?
+Breit1=vn7n24fzkq&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?
+username=vn7n24fzkq&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?
+username=vn7n24fzkq&theme=github_dark"/>
+</div>        
 
 <!--
 **Breit1/Breit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

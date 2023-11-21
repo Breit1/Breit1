@@ -10,10 +10,6 @@
 </div>
 
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Breit1&theme=github_dark" alt=""/>
-</div>      
-
 <!--
 **Breit1/Breit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

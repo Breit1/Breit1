@@ -7,6 +7,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" whidth="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" whidth="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" whidth="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/@hyper.fun/carbon-icon-logo-python@1.3.0/esm/index.min.js" whidth="40" height="40" />&nbsp;
 </div>
 <!-- <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Breit1&theme=github_dark" alt=""/>
